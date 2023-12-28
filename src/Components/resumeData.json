@@ -1,0 +1,151 @@
+{
+    "main": {
+        "name" : "M Fajar Islam Imam M",
+        "description": "I am a programmer",
+        "image":"pp.jpg",
+        "github":"https://github.com/mfiim",
+        "project":"https://www.linkedin.com/in/muhammad-fajar-islam-imam-mujahid-207ba420a/",
+        "bio": "Hello My name is Muhammad Fajar Islam Imam Mujahid, I was born in 2004 | I like to learn a lot about software development technology and Android development",
+        "contactmessage":"Hello, here I am",
+        "email": "fajar12345678905@gmail.com",
+        "phone": "0821-2203-91291",
+        "address":{
+            "street":"Jl Cabe Raya V",
+            "city":"Tanggerang Selatan",
+            "state":"West Java",
+            "zip": "15408"
+        },
+        "website": "https://github.com/mfiim",
+        "resumedownload":"https://drive.google.com/drive/folders/1Z6Euc8a2yXlxs5BtAXB0qEW2IEhQ0KhE?usp=sharing",
+        "resumeportfolio":"https://www.gojek.com/id-id/",
+        "resumecertificate":"grab.com",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/m.f.i.i.m",
+            "className": "fa fa-facebook"
+          },
+          
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/muhammad-fajar-islam-imam-mujahid-207ba420a/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/m.f.i.i.m/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/mfiim",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"",
+        "education" : [
+            {
+                "school": "Universitas Negeri Jakarta",
+                "degree": "Information Systems and Technology",
+                "graduated": "Still College",
+                "description" : "I am joining experience Ministry of Education"
+            },
+            {
+                "school": "SMA School of Universe",
+                "degree": "Science",
+                "graduated": "Graduated May 2019",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "experience": [
+            {
+                "company" : "Pustikom State of University",
+                "title" : "Software Engineer",
+                "years": "March 2022 - May 2022",
+                "description": "Creating a website and maintenance"
+            }, {
+                "company": "Hactiv8",
+                "title": "Frontend Engineer",
+                "years": "August 2023 - present",
+                "description": "Creating a mobile application"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "60%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+           
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Auctionery (Apps)",
+                "category": "My travel blog for my post-university",
+                "image": "logo.jpg",
+                "url": "https://www.gojek.com"
+            },
+            {
+                "title":"Indonesia IT (Training Web)",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"it.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+            {
+                "title":"Flowguise (Business Web)",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"fg.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+             {
+                "title":"Diabet Predic (Machine Learn)",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"wa.jpeg",
+                "url":"http://www.timbakerdev.com"
+              }
+        ]
+    },
+    "award":{
+        "projects": [
+            {
+                "title": "INSTING 2022",
+                "category": "My travel blog for my post-university",
+                "image": "se1.jpeg",
+                "url": "https://www.gojek.com"
+            },
+            {
+                "title":"IoT Engineer",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"se2.jpeg",
+                "url":"http://www.timbakerdev.com"
+              },
+            {
+                "title":"MySkill - CSS",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"se3.jpeg",
+                "url":"http://www.timbakerdev.com"
+              },
+             {
+                "title":"MySkill - Machine Learning",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"se4.jpeg",
+                "url":"http://www.timbakerdev.com"
+              }
+        ]
+    }
+}
